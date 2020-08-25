@@ -12,9 +12,5 @@ pip install twine
 #### Instalação
 Clone este repositório para sua máquina local usando:
 ```
-git clone https://github.com/caiocarneloz/pacotepypi.git
+git clone https://github.com/MrRobot-Less/DeepLearning.git
 ```
-## Features
-- Estrutura de arquivo para "PyPI packages"
-- Setup com as informações
-- Licença
